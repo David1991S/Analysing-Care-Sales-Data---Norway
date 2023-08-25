@@ -7,7 +7,7 @@ This executive summary outlines the key findings and insights derived from a com
 The primary objective of this analysis was to understand the historical trends and variations in car sales in Norway, using time series techniques to identify patterns, seasonality, and potential influencing factors.
 
 # Data Source:
-The analysis utilized a robust dataset comprising monthly car sales figures in Norway over the past decade. The dataset included information on various car attributes, such as brand, type, fuel efficiency, and market segment.
+The analysis utilised a robust dataset comprising monthly car sales figures in Norway over the past decade. The dataset included information on various car attributes, such as brand, type, fuel efficiency, and market segment.
 
 # Key Findings:
 
