@@ -1,7 +1,7 @@
 # Analysing Car Sales Data in Norway - Time Series Analysis
 # Executive Summary:
 
-This executive summary outlines the key findings and insights derived from a comprehensive time series analysis conducted on car sales data in Norway. The analysis aimed to uncover trends, patterns, and seasonality within the car sales market, providing valuable information for stakeholders, policymakers, and industry participants.
+This executive summary outlines the key findings and insights derived from a comprehensive time series analysis conducted on car sales data from a dealership in Norway. The analysis aimed to uncover trends, patterns, and seasonality within the car sales market, providing valuable information for stakeholders, policymakers, and industry participants.
 
 Objective:
 The primary objective of this analysis was to understand the historical trends and variations in car sales in Norway, using time series techniques to identify patterns, seasonality, and potential influencing factors.
