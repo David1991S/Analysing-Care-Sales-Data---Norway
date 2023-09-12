@@ -51,3 +51,9 @@ While efforts were made to consider external factors, there might be unaccounted
 Conclusion:
 
 The time series analysis on car sales data in Norway uncovered valuable insights into historical trends, seasonality, and market dynamics. The findings serve as a foundation for informed decision-making, enabling stakeholders to adapt strategies, policies, and investments in response to changing market conditions. As the automotive landscape evolves, continuous monitoring and analysis will remain essential to staying ahead in a competitive and dynamic market.
+
+
+# Time Series Analysis:
+
+Monthly car production by dealership covering years 2004 to 2014
+![image](https://github.com/David1991S/Analysing-Care-Sales-Data---Norway/assets/141339726/1833f30f-ca83-4b27-8263-34f7205c73ab)
